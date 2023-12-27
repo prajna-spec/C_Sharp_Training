@@ -1,0 +1,15 @@
+C:\Users\artis\Desktop\C#_Training\FieldsExample\bin\Debug\net7.0\FieldsExample.exe
+C:\Users\artis\Desktop\C#_Training\FieldsExample\bin\Debug\net7.0\FieldsExample.deps.json
+C:\Users\artis\Desktop\C#_Training\FieldsExample\bin\Debug\net7.0\FieldsExample.runtimeconfig.json
+C:\Users\artis\Desktop\C#_Training\FieldsExample\bin\Debug\net7.0\FieldsExample.dll
+C:\Users\artis\Desktop\C#_Training\FieldsExample\bin\Debug\net7.0\FieldsExample.pdb
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\FieldsExample.csproj.AssemblyReference.cache
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\FieldsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\FieldsExample.AssemblyInfoInputs.cache
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\FieldsExample.AssemblyInfo.cs
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\FieldsExample.csproj.CoreCompileInputs.cache
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\FieldsExample.dll
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\refint\FieldsExample.dll
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\FieldsExample.pdb
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\FieldsExample.genruntimeconfig.cache
+C:\Users\artis\Desktop\C#_Training\FieldsExample\obj\Debug\net7.0\ref\FieldsExample.dll

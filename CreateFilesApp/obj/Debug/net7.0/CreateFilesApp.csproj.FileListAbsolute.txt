@@ -1,0 +1,15 @@
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\bin\Debug\net7.0\CreateFilesApp.exe
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\bin\Debug\net7.0\CreateFilesApp.deps.json
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\bin\Debug\net7.0\CreateFilesApp.runtimeconfig.json
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\bin\Debug\net7.0\CreateFilesApp.dll
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\bin\Debug\net7.0\CreateFilesApp.pdb
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\CreateFilesApp.csproj.AssemblyReference.cache
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\CreateFilesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\CreateFilesApp.AssemblyInfoInputs.cache
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\CreateFilesApp.AssemblyInfo.cs
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\CreateFilesApp.csproj.CoreCompileInputs.cache
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\CreateFilesApp.dll
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\refint\CreateFilesApp.dll
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\CreateFilesApp.pdb
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\CreateFilesApp.genruntimeconfig.cache
+C:\Users\artis\Desktop\C#_Training\CreateFilesApp\obj\Debug\net7.0\ref\CreateFilesApp.dll

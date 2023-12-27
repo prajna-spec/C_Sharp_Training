@@ -1,0 +1,15 @@
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\bin\Debug\net7.0\RegularExpressions.exe
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\bin\Debug\net7.0\RegularExpressions.deps.json
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\bin\Debug\net7.0\RegularExpressions.runtimeconfig.json
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\bin\Debug\net7.0\RegularExpressions.dll
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\bin\Debug\net7.0\RegularExpressions.pdb
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\RegularExpressions.csproj.AssemblyReference.cache
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\RegularExpressions.AssemblyInfo.cs
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\RegularExpressions.dll
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\refint\RegularExpressions.dll
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\RegularExpressions.pdb
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\RegularExpressions.genruntimeconfig.cache
+C:\Users\artis\Desktop\C#_Training\RegularExpressions\obj\Debug\net7.0\ref\RegularExpressions.dll

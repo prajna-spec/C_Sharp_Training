@@ -1,0 +1,15 @@
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\C#_Training.csproj.AssemblyReference.cache
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\C#_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\C#_Training.AssemblyInfoInputs.cache
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\C#_Training.AssemblyInfo.cs
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\C#_Training.csproj.CoreCompileInputs.cache
+C:\Users\artis\Desktop\C#_Training\bin\Debug\net7.0\C#_Training.exe
+C:\Users\artis\Desktop\C#_Training\bin\Debug\net7.0\C#_Training.deps.json
+C:\Users\artis\Desktop\C#_Training\bin\Debug\net7.0\C#_Training.runtimeconfig.json
+C:\Users\artis\Desktop\C#_Training\bin\Debug\net7.0\C#_Training.dll
+C:\Users\artis\Desktop\C#_Training\bin\Debug\net7.0\C#_Training.pdb
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\C#_Training.dll
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\refint\C#_Training.dll
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\C#_Training.pdb
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\C#_Training.genruntimeconfig.cache
+C:\Users\artis\Desktop\C#_Training\obj\Debug\net7.0\ref\C#_Training.dll

@@ -1,0 +1,3 @@
+// commands to create a new file/ .dotnet app
+dotnet new classlib -n YourClassLibrary
+dontnet new consoleapp -n consoleapp1

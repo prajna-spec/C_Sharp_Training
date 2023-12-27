@@ -1,0 +1,15 @@
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\bin\Debug\net7.0\MyConsoleApp_DateTimeParse.exe
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\bin\Debug\net7.0\MyConsoleApp_DateTimeParse.dll
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\MyConsoleApp_DateTimeParse.csproj.AssemblyReference.cache
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\MyConsoleApp_DateTimeParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\MyConsoleApp_DateTimeParse.AssemblyInfoInputs.cache
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\MyConsoleApp_DateTimeParse.AssemblyInfo.cs
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\MyConsoleApp_DateTimeParse.csproj.CoreCompileInputs.cache
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\MyConsoleApp_DateTimeParse.dll
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\refint\MyConsoleApp_DateTimeParse.dll
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\MyConsoleApp_DateTimeParse.pdb
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\bin\Debug\net7.0\MyConsoleApp_DateTimeParse.deps.json
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\bin\Debug\net7.0\MyConsoleApp_DateTimeParse.runtimeconfig.json
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\bin\Debug\net7.0\MyConsoleApp_DateTimeParse.pdb
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\MyConsoleApp_DateTimeParse.genruntimeconfig.cache
+C:\Users\artis\Desktop\C#_Training\MyConsoleApp_DateTimeParse\obj\Debug\net7.0\ref\MyConsoleApp_DateTimeParse.dll
